@@ -1,1 +1,1 @@
-# RTA_KZ
+# Analiza danych w czasie rzeczywistym
